@@ -1,0 +1,25 @@
+* {
+    /* border: 1px solid red; */
+}
+
+body {
+    background: rgb(175, 244, 200);
+}
+
+h1 {
+    text-align: center;
+    background: orange;
+}
+
+h2 {
+    text-align: center;
+    background: yellow;
+}
+
+.tothemiddle {
+   text-align: center;
+}
+
+.totheright {
+    text-align: right;
+}
